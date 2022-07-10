@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/food-vault-react/static/css/main.75dd690d.chunk.css",
+    "main.js": "/food-vault-react/static/js/main.aa15092a.chunk.js",
+    "main.js.map": "/food-vault-react/static/js/main.aa15092a.chunk.js.map",
+    "runtime-main.js": "/food-vault-react/static/js/runtime-main.aea6529e.js",
+    "runtime-main.js.map": "/food-vault-react/static/js/runtime-main.aea6529e.js.map",
+    "static/js/2.57442a42.chunk.js": "/food-vault-react/static/js/2.57442a42.chunk.js",
+    "static/js/2.57442a42.chunk.js.map": "/food-vault-react/static/js/2.57442a42.chunk.js.map",
+    "index.html": "/food-vault-react/index.html",
+    "static/css/main.75dd690d.chunk.css.map": "/food-vault-react/static/css/main.75dd690d.chunk.css.map",
+    "static/js/2.57442a42.chunk.js.LICENSE.txt": "/food-vault-react/static/js/2.57442a42.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/food-vault-react/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea6529e.js",
+    "static/js/2.57442a42.chunk.js",
+    "static/css/main.75dd690d.chunk.css",
+    "static/js/main.aa15092a.chunk.js"
+  ]
+}
